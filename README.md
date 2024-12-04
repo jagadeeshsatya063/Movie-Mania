@@ -1,7 +1,3 @@
-Here’s the updated README file for your **Movie Mania** project:
-
----
-
 # Movie Mania
 
 This is a web-based movie search site built using JavaScript, HTML, and CSS. It allows users to search for movies and displays relevant results, including movie posters and titles, in a clean and interactive interface.
