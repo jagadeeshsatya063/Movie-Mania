@@ -1,39 +1,39 @@
+Here’s the updated README file for your **Movie Mania** project:
+
+---
+
 # Movie Mania
 
-This is a Python-based movie search site that uses an API to provide users with the ability to search for movies. The project displays relevant results, including movie posters and titles, in a user-friendly interface.
+This is a web-based movie search site built using JavaScript, HTML, and CSS. It allows users to search for movies and displays relevant results, including movie posters and titles, in a clean and interactive interface.
 
 ## How to Use
 
 1. Clone or download the repository.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Run the `movie_mania.py` file to start the application.
-4. Enter a movie name in the search bar and hit **Search** to see results.
+2. Open the `index.html` file in any modern web browser.
+3. Enter a movie name in the search bar and click **Search** to see the results.
 
 ## Features
 
-- Search for movies by title.
-- Displays movie posters and titles for user-selected queries.
-- Simple and intuitive interface.
+- Search for movies by title using an external movie database API.
+- Displays movie posters and titles dynamically.
+- Responsive and user-friendly design.
 
 ## Project Files
 
-- `movie_mania.py`: Main script for the movie search application.
-- `api_integration.py`: Handles API calls to fetch movie details.
-- `templates/`: Contains HTML templates for the web interface.
-- `static/`: Includes CSS and image files for styling.
+- `index.html`: Main HTML file for the web application.
+- `style.css`: Contains the styling rules for the user interface.
+- `app.js`: JavaScript file that manages API integration and dynamic content rendering.
 
 ## Requirements
 
-- Python 3
-- Flask (for web framework)
-- An API key for the movie database API (e.g., TMDb)
-- Dependencies listed in `requirements.txt` (install with `pip install -r requirements.txt`)
-
+- A modern web browser (e.g., Chrome, Firefox, Edge).
+- An API key for the movie database API (e.g., TMDb or OMDb).
+  
 ## How to Configure the API Key
 
 1. Sign up on the movie database platform and generate an API key.
-2. Add your API key in the `api_integration.py` file where specified.
+2. Add your API key in the `app.js` file where specified.
 
-## Enjoy Your Movie Search Experience!
+## Enjoy the Movie Mania Experience!
 
-With Movie Mania, finding your favorite movies has never been easier. Start exploring now!
+Dive into the world of movies with Movie Mania, where finding your favorite movies is just a click away. Start exploring now!
